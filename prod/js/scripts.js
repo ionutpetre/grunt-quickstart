@@ -1,0 +1,2 @@
+/*grunt-quickstart 2016-01-06*/
+var helloText="Hello world, ",yourName="Ionut Petre",currentDate=new Date,currentYear=currentDate.getFullYear(),currentMonth=currentDate.getMonth()+1,currentDay=currentDate.getDay();console.log("Current Date: "+currentYear+"."+currentMonth+"."+currentDay),alert(helloText+yourName);
